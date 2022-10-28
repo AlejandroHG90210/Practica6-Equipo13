@@ -87,5 +87,3 @@
                       </tr>
                   </div>
                 </table> 
-              </body>  
-</html>
